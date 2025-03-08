@@ -1,0 +1,25 @@
+#countlabel{
+    display:block;
+    text-align:center;
+    font-size: 10em;
+    font-family:fantasy;
+    color: grey;
+}
+#btncontainer{
+text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    font-size: 1.6em;
+    color: blueviolet;
+    background-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:background-color  0.25s;
+}
+.btn:hover{
+    background-color: rgba(245, 13, 13, 0.377);
+}
+body{
+    background-color: beige;
+}
